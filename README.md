@@ -1,6 +1,6 @@
 # ITC Hackwave System
 
-> Spring Boot backend for the **Hackwave** kiosk & event management system — built by **ITC**.
+> Spring Boot backend for the **Hackwave** hackathon & event management system — built by khelfat takieddine and othmane ataalah for itc .
 
 ---
 
